@@ -1,4 +1,4 @@
-# Progetto-Citibike-3
+# Studio dell'impatto della membership sull'uso dei mezzi CitiBike
 
 # Gestione e analisi di grandi quantità di dati forniti da CitibBikeNYC tramite l'utilizzo di Excel, SQL (postgreSQL), Visual Studio (Python) e Microsoft Power BI
 
